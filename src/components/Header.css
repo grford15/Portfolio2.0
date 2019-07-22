@@ -1,4 +1,16 @@
 h1 {
   letter-spacing: 0.2em;
-  font-size: 2.5em;
+  font-size: 3em;
+  color: #e9a148;
+  text-shadow: #000000 -1px -1px 3px;
+}
+
+.Intro {
+  display: flex;
+  padding: 1em;
+  font-family: 'Athiti', sans-serif;
+}
+
+.Intro p {
+  font-size: 1.4em;
 }
