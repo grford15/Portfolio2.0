@@ -1,15 +1,13 @@
 .App-Container {
   display: flex;
-}
-
-.App {
-  font-family: 'Antic', sans-serif;
-  background-color: #f4f4f4;
-  color: #24232d;
-  padding: 1em;
-  padding-top: 0.3em;
-  display: flex;
-  justify-content: center;
-  flex-grow: 1;
   flex-direction: column;
+  background-image: linear-gradient(
+    to right bottom,
+    #251682,
+    #0b42a8,
+    #006aca,
+    #0091e6,
+    #33b8ff
+  );
+  font-family: 'Antic', sans-serif;
 }

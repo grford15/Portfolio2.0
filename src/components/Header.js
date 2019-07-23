@@ -1,8 +1,8 @@
 import React from 'react';
-import './Header.css';
+import './styling/Header.css';
 
 const Header = () => (
-  <div className="App">
+  <div className="Header">
     <h1>Greg Rutherford</h1>
     <div className="Intro">
       <p>
