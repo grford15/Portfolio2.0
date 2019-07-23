@@ -5,14 +5,6 @@ body {
     'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(
-    to right bottom,
-    #251682,
-    #0b42a8,
-    #006aca,
-    #0091e6,
-    #33b8ff
-  );
   background: no-repeat;
 }
 
