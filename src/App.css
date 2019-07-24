@@ -2,12 +2,12 @@
   display: flex;
   flex-direction: column;
   background-image: linear-gradient(
-    to right bottom,
-    #ffbe76,
-    #fcb364,
-    #f8a952,
-    #f49e3f,
-    #f0932b
+    to left bottom,
+    #f5f6fa,
+    #eff0f4,
+    #e8e9ed,
+    #e2e3e7,
+    #dcdde1
   );
   font-family: 'Antic', sans-serif;
 }

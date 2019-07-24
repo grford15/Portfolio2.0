@@ -1,7 +1,7 @@
 h1 {
   letter-spacing: 0.2em;
   font-size: 3em;
-  color: black;
+  color: #192a56;
 }
 
 .Intro {
@@ -12,7 +12,7 @@ h1 {
 
 .Intro p {
   font-size: 1.4em;
-  color: black;
+  color: #192a56;
 }
 
 .Header {
