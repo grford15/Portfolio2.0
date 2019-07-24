@@ -2,6 +2,7 @@ h1 {
   letter-spacing: 0.2em;
   font-size: 3em;
   color: #192a56;
+  font-family: 'Cardo', serif;
 }
 
 .Intro {
@@ -13,6 +14,7 @@ h1 {
 .Intro p {
   font-size: 1.4em;
   color: #192a56;
+  font-family: 'Raleway', sans-serif;
 }
 
 .Header {
